@@ -1,14 +1,16 @@
-# Welcome to Huy repository
-This repository contains a simple Java application with using MD aka MarkDown
+# Welocome to iamanoob-web repository
+This repository contains a sipmle Java application used for demonstration 
+of CI-Continous integration process, a part of Introduction to Software 
+Engineering course at FPT University.
 
-## You will find in thus repository:
+## You will find i nthis repo:
 * MathUtil class: hold all of our own math methods
-* Test class: demonstrate TDD and Unit Testing using JUnit
+* Test class: Demonstration TDD and Unit Testing using JUnit
 * .gitignore
-* MarkDown file itself
+* Markdown file itself
 
 ## Connect me via
-1. [GitHub](https://github.com/erikhuy)
-2. [Facebook](https://www.facebook.com/fly08102000)
+1. [GitHub](https://github.com/iamanoob-web)
+2. [Facebook](https://www.facebook.com/profile.php?id=100007356814590)
 
-#### © by Huy 2020
+#### © 2020 by iamanoob-web | FPT University HCM Campus
